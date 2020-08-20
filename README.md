@@ -13,15 +13,15 @@ First of all I wanted to get rid of all the administration duties a CMS demands.
 
 ## Some considerations on the design
 
-My first website was a wordpress template I bought a couple years ago that has some plugins that consume my podcast feed and from there it shows the episodes. However I had to do a lot of things to keep it up to date. So after I produce an episode, which is also a time consuming work, I had to manually update the plugin, set the episode cover which for some reason the plugin never retrieve and wait for the cache to be updated. I didn´t want that.
+My first website was a wordpress template I bought a couple years ago that has some plugins that consume my podcast feed and from there it shows the episodes. However I had to do a lot of things to keep it up to date. So after I produce an episode, which is also a time consuming work, I had to manually update the plugin, set the episode cover which for some reason the plugin never retrieve and wait for the cache to be updated. I didn´t want that anymore.
 
-I also wanted it to look good on any screen withut having too much todo and have the ability to update it as easy as with a CMS, Something for my coding experience is now easier yet it can be a bt challenging for people not familiar with code.
+I also wanted it to look good on any screen without having too much to do and have the ability to update it as I wish quick. Having an HTML snippet I copy and paste and an embed code for my podcast copy pasted have to be enough.
 
-So I came up with the idea of basing the expeience on Cards. A more or less common concept. and I thought cards will be good for posting each episode directly from spotify or anchor embeded. (Sorry apple, you don´t have easy to find ways of embedding episodes).
+So I came up with the idea of basing the expeience on Cards, a more or less common concept. and I thought cards will be good for posting each episode directly from spotify or anchor embeded. (Sorry apple, you don´t have easy to find ways of embedding episodes).
 
-I decided to create cards I can easily create with a snippet of code where I only change the embed code I can copy from my podcast distributors. Then I realized I needed a few different types of cards, for the Header, the last episode and episode timelines, maybe a card for special and feature episodes so I deidd to use different background olors, how clever of me. I played a bit with bootstrap to make the cards flow and stack accordingly to the screen. That needs polishing. 
+Cards are created based on Boostsrap and I only change the embed code I can copy from my podcast distributors. Then I realized I could tweak card design by changing colors to show info, donation, episode, feature episode cards and so on, how clever of me. I played a bit with bootstrap to make the cards flow and stack accordingly to the screen size. That needs polishing. 
 
-Anyway you can use the code and customize it for your own purposes and likes and even deploy directly from github to your preferred hosting. in my case I use Azure static websites which is cheaper than a wordpress instance.
+Anyway you can use the code and customize it for your own purposes and likes and even deploy directly from github to your preferred hosting. Since this is a static design, I use Azure static websites which is cheaper than a wordpress instance.
 
 ## Anything else?
 
