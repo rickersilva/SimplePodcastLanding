@@ -1,0 +1,21 @@
+body{
+    background-color: #002b36;
+    height: 100%;
+}
+.home-card{
+    background-color: #0d4f86 !important;
+    color: #fabf19;
+}
+
+.special-card{
+    background-color: #fabf19 !important;
+    color: #0d4f86;
+}
+.normal-card{
+    background-color: #eee8d5;
+}
+
+.feature-card{
+    background-color: #0d4f86 !important;
+    color: #ffffff;
+}
