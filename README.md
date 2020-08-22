@@ -23,6 +23,8 @@ Cards are created based on Boostsrap and I only change the embed code I can copy
 
 Anyway you can use the code and customize it for your own purposes and likes and even deploy directly from github to your preferred hosting. Since this is a static design, I use Azure static websites which is cheaper than a wordpress instance.
 
+![Desktop screen](https://github.com/rickersilva/SimplePodcastLanding/blob/master/img/desktopscreen.png?raw=true)
+
 ## Anything else?
 
 If you need anything else, just write me or contact me here.
