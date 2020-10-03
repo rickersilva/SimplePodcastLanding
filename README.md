@@ -1,4 +1,4 @@
-# SimplePodcastLanding
+# Simple Podcast Landing
 
 I've been hosting my podcast for more than 5 years now and I always struggle setting a website I really feel is helping promoting and converting visitors into listeners. I still don´t kow if this is it but I think it is a very good restart.
 
